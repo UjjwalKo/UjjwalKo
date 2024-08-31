@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwalko&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwalko" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning and PyTorch**
+- 🌱 I’m currently learning **Machine Learning and TensorFlow**
 
 - 👨‍💻 All of my projects are available at [https://www.koiralaujjal.com.np/](https://www.koiralaujjal.com.np/)
 
