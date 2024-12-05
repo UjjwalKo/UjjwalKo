@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/programmer-work-laptop-computer-website-code-program-concept_133260-5400.jpg">
 
-<p align="left"> <img src="" alt="ujjwalko" /> </p>
+<p align="left"> <img src="https://drive.google.com/file/d/1HrcRstbVaMABEpxl3-znymxMIh0-LTBs/view?usp=sharing" alt="ujjwalko" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning and TensorFlow**
 
