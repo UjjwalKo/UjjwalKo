@@ -7,11 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and TensorFlow**
 
-- 👨‍💻 All of my projects are available at [https://www.koiralaujjal.com.np/](https://www.koiralaujjal.com.np/)
-
 - 📫 How to reach me **ujjwal.koirala02@gmail.com**
-
-- 📄 Know about my experiences [https://rb.gy/d5x0mk](https://rb.gy/d5x0mk)
 
 - ⚡ Fun fact **I think I'm sarcastic**
 
