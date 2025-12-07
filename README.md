@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/programmer-work-laptop-computer-website-code-program-concept_133260-5400.jpg">
 
-- 🌱 I’m currently learning **Machine Learning and TensorFlow**
+- 🌱 I’m currently learning **Apache Iceburg and Azure**
 
 - 📫 How to reach me **ujjwal.koirala02@gmail.com**
 
