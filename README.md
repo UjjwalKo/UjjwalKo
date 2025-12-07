@@ -1,5 +1,5 @@
 <h1 align="center">Hello, It's me Ujjwal Koirala</h1>
-<h3 align="center">A passionate Data Science & Machine Learning Enthusiast from Bhaktapur</h3>
+<h3 align="center">A passionate Data Engineer & Big Data Enthusiast from Bhaktapur</h3>
 
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/programmer-work-laptop-computer-website-code-program-concept_133260-5400.jpg">
 
